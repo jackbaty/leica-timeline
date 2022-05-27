@@ -1,0 +1,39 @@
+:PROPERTIES:
+:DIR:      ./
+:END:
+#+TITLE: My Leica Camera Timeline
+#+DATE: May 27, 2022
+#+SETUPFILE: ~/org/_SETUP/HTML_FANCY
+#+SETUPFILE: ~/org/_SETUP/DEFAULT
+#+EXPORT_FILE_NAME: public/index.html
+
+
+I have owned a number of Leica cameras over the years. Below is the timeline, as best I can recall.
+
+#+caption: Leica camera timeline (click for full image)
+#+attr_html: :width 90%
+[[file:LeicaTimeline.png][file:LeicaTimeline.png]]
+
+
+| Model              | Type    |  Bought |    Sold | Duration           |
+|--------------------+---------+---------+---------+--------------------|
+| Leica M6 TTL       | Film    | 2004-10 | 2008-07 | 3 years, 9 months  |
+| Leica M4           | Film    | 2009-02 | 2021-11 | 12 years, 9 months |
+| Leica M8           | Digital | 2009-05 | 2009-08 | 3 months           |
+| Leica D-LUX 4      | Digital | 2009-06 | 2010-04 | 10 months          |
+| Leica M7           | Film    | 2009-07 | 2013-11 | 4 years, 4 months  |
+| Leica Digilux 2    | Digital | 2009-08 | 2009-11 | 3 months           |
+| Leica M6           | Film    | 2009-12 | 2010-07 | 7 months           |
+| *Leica M3*         | Film    | 2012-06 |     n/a | 9 years, 11 months |
+| *Leica IIIf*       | Film    | 2012-10 |     n/a | 9 years, 7 months  |
+| *Leica M6*         | Film    | 2017-02 |     n/a | 5 years, 3 months  |
+| Leica Q            | Digital | 2018-10 | 2020-09 | 1 year, 11 months  |
+| Leica M10-P        | Digital | 2020-07 | 2021-01 | 6 months           |
+| Leica SL (Typ 601) | Digital | 2020-11 | 2021-01 | 2 months           |
+| Leica SL2-S        | Digital | 2020-12 | 2022-03 | 1 year, 3 months   |
+| Leica Q2 Monochrom | Digital | 2021-02 | 2021-08 | 6 months           |
+| *Leica MP*         | Film    | 2021-07 |     n/a | 11 months          |
+| Leica Q2           | Digital | 2021-10 | 2021-12 | 2 months           |
+| Leica M10-R        | Digital | 2021-12 | 2022-01 | 1 month            |
+| Leica Q2 Monochrom | Digital | 2021-12 | 2022-06 | 6 months           |
+| *Leica M10-R*      | Digital | 2022-01 |     n/a | 5 months           |
